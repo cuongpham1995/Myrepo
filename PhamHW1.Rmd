@@ -39,6 +39,7 @@ a.
 
 
 ```{r}
+#this is neat
 q3 = function(theta1, y.theta1, y.theta0, y){
   theta0 = 1 - theta1
   if(y == 1){
